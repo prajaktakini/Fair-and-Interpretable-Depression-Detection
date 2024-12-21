@@ -3,6 +3,9 @@ Traditional machine learning models for depression classification lack interpret
 
 We propose a neuro symbolic model that combines the strengths of deep learning models with the transparency of rule-based systems.
 
+# Project Report
+Refer to the project report attached in the ./Docs/NeuroSymbolic_Classifier_Project_Report.pdf directory
+
 # Rule Based Model Architecture
 ![Rule Based Architecture](./images/rule_based.png)
 
